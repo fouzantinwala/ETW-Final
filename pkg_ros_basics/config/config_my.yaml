@@ -1,0 +1,10 @@
+# Comment: my_config.yaml Configuration
+details:
+  name:
+     first: "sachin"  # First Name
+     last: "tendulkar" # Last Name
+  
+  contact:
+     address: "XYZ Street, XYZ"  # Address
+     phone: 77777    # Contact
+
