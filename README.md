@@ -25,6 +25,8 @@ run the following command to compile all the packages
 Now, in order to run the simulation, write the following commands on the terminal, each in a new window/tab.
 
 : roslaunch nuric_wheelchair_model_02 wheelchair.launch
+
 : rosrun pkg_ros_basics ETW.py
+
 : rosrun pkg_ros_basics move.py
 
