@@ -1,5 +1,5 @@
 # ETW-Final
-Perform the following commands inorder to create a ROS workspace once you have installed ROS melodic an gazebo 9.
+Perform the following commands inorder to create a ROS workspace once you have installed ROS melodic and gazebo 9.
 
 : mkdir ~/simulation_ws/src -p
 
